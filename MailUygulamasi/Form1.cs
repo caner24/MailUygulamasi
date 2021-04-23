@@ -19,7 +19,7 @@ namespace MailUygulamasi
 
         }
 
-        //            *********************************************************** Devoloped by caner24 *************************************************************** 
+        //            *********************************************************** Developed by caner24 *************************************************************** 
 
         MailMessage icerik = new MailMessage(); // Mail mesajı göndermek için mailmessaje nesnesi oluşturduk.
         SmtpClient istemci = new SmtpClient();  // Mesajımızı göndermek için istemciye ihtiyacımız var , istemcimizi oluşturduk.
